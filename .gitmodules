@@ -1,0 +1,3 @@
+[submodule "modules/powergit"]
+	path = modules/powergit
+	url = https://github.com/tenpn/powergit.git
